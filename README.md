@@ -2,7 +2,7 @@
 Building dashboard using Power BI to present our stakeholders
 
 The raw data: https://www.absentdata.com/hotel_revenue_historical_full/
-The final forecast for each hotel: https://public.tableau.com/app/profile/alper5134/viz/Forecast_16373695849180/forecasttable
+#The final forecast for each hotel: https://public.tableau.com/app/profile/alper5134/viz/Forecast_16373695849180/forecasttable
 
 Business Questions:
 1.	Is our hotel revenue growing by year?
